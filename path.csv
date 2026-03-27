@@ -1,0 +1,32 @@
+| Day | Focus           | Task                                                           |
+| --- | --------------- | -------------------------------------------------------------- |
+| 1   | Project 1 Start | Load data, full EDA, missing values, outliers                  |
+| 2   | Project 1       | Advanced feature engineering (family size, title extraction)   |
+| 3   | Project 1       | Encoding + scaling + feature selection                         |
+| 4   | Project 1       | Train: Logistic Regression, KNN, Decision Tree                 |
+| 5   | Project 1       | Train: Random Forest + Hyperparameter tuning                   |
+| 6   | Project 1       | Evaluation: accuracy, precision, recall, F1 + confusion matrix |
+| 7   | Project 1       | Visualizations + clean notebook + strong conclusions           |
+
+| Day | Focus           | Task                                                  |
+| --- | --------------- | ----------------------------------------------------- |
+| 8   | Project 2 Start | Load data, EDA, missing values analysis               |
+| 9   | Project 2       | Feature engineering (log transform, new features)     |
+| 10  | Project 2       | Encoding (one-hot, label), scaling                    |
+| 11  | Project 2       | Train: Linear Regression, Ridge, Lasso                |
+| 12  | Project 2       | Train: Random Forest, Gradient Boosting               |
+| 13  | Project 2       | Train: XGBoost / CatBoost + tuning                    |
+| 14  | Project 2       | RMSE evaluation + feature importance + clean notebook |
+
+| Day | Focus             | Task                                    |
+| --- | ----------------- | --------------------------------------- |
+| 22  | Resume            | Build strong 1-page resume with metrics |
+| 23  | LinkedIn          | Optimize profile, add projects, GitHub  |
+| 24  | Personal Branding | Post projects + engage in ML community  |
+
+| Day | Focus          | Task                                                 |
+| --- | -------------- | ---------------------------------------------------- |
+| 28  | ML Theory      | Overfitting, bias-variance, metrics, model selection |
+| 29  | Coding + ML    | Python + Pandas + explain models                     |
+| 30  | Mock Interview | Full mock: projects + ML + coding                    |
+    
